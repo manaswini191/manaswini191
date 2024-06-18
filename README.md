@@ -2,7 +2,7 @@
 <p align="center">
   <img alt="coding" width="200" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 </p>
-<h3 align="center">Undergraduate in Data Science with a passion for web development and data science. Always eager to explore new technologies and challenges.</h3>
+<h3 align="center">Undergraduate in Data Science with a passion for web development, data science and all things related to technology. Always eager to explore new technologies and challenges.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manaswini191&label=Profile%20views&color=0e75b6&style=flat" alt="manaswini191" /> </p>
 
 - 🔭 I’m currently working on **transforming my learning into practical projects.**
